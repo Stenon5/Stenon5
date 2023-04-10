@@ -1,16 +1,25 @@
-### Hi there 👋
+# Stenon
+**`Digital Craftsman (DevOps-Jr)`**
 
-<!--
-**Stenon5/Stenon5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola!, soy un estudiante de programación que busca crear sus propios productos digitales.
+Actualmente, me preparo para certificarme en AWS y fabrico mi propio portafolios, el mismo que verán adelante.
 
-Here are some ideas to get you started:
+Planeo a futuro desarrollar IA para proyectos/productos propios, sin embargo, "one step at the time"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### ⚙ My technologies
+SQL | NoSQL | ETL | Bash/Zsh | Git | Scrum | Azure | Linux.
+ 
+ 
+<details>
+  <summary><h3>👨‍💻 developer dnevnik </summary></h3>
+  Me apasiona el mundo de la computación, desde pequeño estudiaba por cuenta propia el funcionamiento de un computador
+  tratando de comprender esa caja negra, que creaba a mis ojos, magia a partir de simple electricidad corriendo por sus venas.
+  
+  De pequeño soñaba con tener un arduino y crear algún despropocito de aparato para trastear.
+  
+  A día de hoy, quiero desempeñarme en el mundo laboral de la programacion para plasmar mi propia imaginacion en un producto final
+  
+ 
+
