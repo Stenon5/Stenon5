@@ -8,28 +8,15 @@ Actualmente, me preparo para certificarme en AWS y fabrico mi propio portafolios
 Planeo a futuro desarrollar IA para proyectos/productos propios, sin embargo, "one step at the time"
 
 
+### ⚙ Tecnologías
 
-### ⚙ My technologies
-SQL | NoSQL | ETL | Bash/Zsh | Git | Scrum | Azure | Linux.
- 
- 
-<details>
-  <summary><h3>👨‍💻 developer dnevnik </summary></h3>
-  Me apasiona el mundo de la computación, desde pequeño estudiaba por cuenta propia el funcionamiento de un computador
-  tratando de comprender esa caja negra, que creaba a mis ojos, magia a partir de simple electricidad corriendo por sus venas.
-  
-  De pequeño soñaba con tener un arduino y crear algún despropocito de aparato para trastear.
-  
-  A día de hoy, quiero desempeñarme en el mundo laboral de la programacion para plasmar mi propia imaginacion en un producto final
-  
- 
-
-
-
-
-
-
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
 
@@ -46,4 +33,8 @@ Mi meta es dedicarme a la **investigación y desarrollo de inteligencia artifici
 
 
 
+<details>
+  <summary><h3>👨‍💻 developer dnevnik </summary></h3>
+  Me apasiona el mundo de la computación, desde pequeño estudiaba por cuenta propia el funcionamiento de un computador
+  tratando de comprender esa caja negra, que creaba a mis ojos, magia a partir de simple electricidad corriendo por sus venas.
 
