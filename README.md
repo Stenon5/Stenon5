@@ -19,11 +19,11 @@ Hola! Actualmente curso la carrera de Ingeniería Civil Biomédica y en paralelo
 
 ---
 
-### 💡 En qué trabajo
+### 💡 Mi experiencia
 
 - 🐧 **Administración de sistemas** — manejo entornos Arch y RedHat, resolviendo dependencias y compatibilidad. 
 - ⚙️ **Automatización** — scripts en Bash para configurar y mantener entornos de desarrollo reproducibles.
-- 🐳 **Contenedores & CI/CD** — aplicaciones en Docker con pipelines en GitHub Actions. Aprendiendo **Kubernetes** desde la base para orquestación a escala.
+- 🐳 **Contenedores & CI/CD** — aplicaciones en Docker con pipelines en GitHub Actions.
 
 
 
@@ -42,7 +42,7 @@ Mi meta es dedicarme a la **investigación y desarrollo de inteligencia artifici
 ---
 
 <details>
-<summary>👨‍💻 developer dnevnik</summary>
+<summary>👨‍💻 developer dnevnik </summary>
   <p></p>
 
 <p>Me apasiona el mundo de la computación. Desde pequeño estudiaba por cuenta propia el funcionamiento de un computador, tratando de comprender esa caja negra que creaba, a mis ojos, magia a partir de simple electricidad corriendo por sus venas.</p>
