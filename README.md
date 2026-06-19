@@ -1,32 +1,3 @@
-### 💡 En qué trabajo
-
-- 🐧 **Administración de sistemas** — manejo entornos Arch y RedHat, resolviendo dependencias y compatibilidad. Actualmente preparándome para la certificación **RHCSA (Red Hat Certified System Administrator)**.
-- ⚙️ **Automatización** — scripts en Bash para configurar y mantener entornos de desarrollo reproducibles.
-- 🐳 **Contenedores & CI/CD** — aplicaciones en Docker con pipelines en GitHub Actions. Aprendiendo **Kubernetes** desde la base para orquestación a escala.
-
-### 🎯 Hacia dónde voy
-
-Mi meta es dedicarme a la **investigación y desarrollo de inteligencia artificial**, encargándome del proceso de inicio a fin: desde el modelado matemático hasta el producto final.
-
-El camino que estoy construyendo:
-
-- 📜 Certificaciones de infraestructura sólida — **RHCSA → RHCE (Red Hat Certified Engineer)** y orquestación con **Kubernetes**.
-- ☁️ Administración de sistemas a gran escala y especialización en **Machine Learning (AWS / Azure)**.
-- 🔬 Proyectos propios de Machine Learning, con foco en el modelado matemático y la escritura de papers.
-
-El objetivo de fondo: aportar a equipos de investigación en IA de primer nivel.
-
-
-
-
-
-
-
-
-
-_----------------------------------------
-
-
 
 # Stenon
 **`Digital Craftsman (DevOps-Jr)`**
@@ -52,4 +23,27 @@ SQL | NoSQL | ETL | Bash/Zsh | Git | Scrum | Azure | Linux.
   A día de hoy, quiero desempeñarme en el mundo laboral de la programacion para plasmar mi propia imaginacion en un producto final
   
  
+
+
+
+
+
+
+
+
+
+
+
+### 💡 En qué trabajo
+
+- 🐧 **Administración de sistemas** — manejo entornos Arch y RedHat, resolviendo dependencias y compatibilidad. Actualmente preparándome para la certificación **RHCSA (Red Hat Certified System Administrator)**.
+- ⚙️ **Automatización** — scripts en Bash para configurar y mantener entornos de desarrollo reproducibles.
+- 🐳 **Contenedores & CI/CD** — aplicaciones en Docker con pipelines en GitHub Actions. Aprendiendo **Kubernetes** desde la base para orquestación a escala.
+
+### 🎯 Hacia dónde voy
+
+Mi meta es dedicarme a la **investigación y desarrollo de inteligencia artificial**, encargándome del proceso de inicio a fin: desde el modelado matemático hasta el producto final.
+
+
+
 
