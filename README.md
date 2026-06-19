@@ -34,7 +34,11 @@ Mi meta es dedicarme a la **investigación y desarrollo de inteligencia artifici
 
 
 <details>
-  <summary><h3>👨‍💻 developer dnevnik </summary></h3>
+  <summary><h3>...
+  👨‍💻 developer dnevnik </summary></h3>
   Me apasiona el mundo de la computación, desde pequeño estudiaba por cuenta propia el funcionamiento de un computador
   tratando de comprender esa caja negra, que creaba a mis ojos, magia a partir de simple electricidad corriendo por sus venas.
+  </summary></h3>
+
+
 
