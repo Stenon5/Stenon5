@@ -1,40 +1,20 @@
-# Stenon
-
-`Digital Craftsman · DevOps Jr.`
-
-Estudiante de ingeniería enfocado en **DevOps y automatización**, construyendo entornos de desarrollo reproducibles mientras me preparo para certificarme en la nube. Me apasiona entender cómo funcionan las cosas por dentro: desde niño desarmaba esa "caja negra" que era el computador para entender la magia que corría por sus venas. Hoy traduzco esa curiosidad en infraestructura, scripts y productos que funcionan.
-
-Busco mi primera oportunidad profesional donde aportar mientras sigo creciendo. **One step at a time.**
-
----
-
-### 🛠️ Tecnologías
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
----
-
 ### 💡 En qué trabajo
 
-- ⚙️ **Automatización** — scripts en Bash para configurar y mantener entornos de desarrollo.
-- 🐳 **Contenedores & CI/CD** — aplicaciones en Docker con pipelines básicos en GitHub Actions.
-- 🐧 **Administración de sistemas** — entornos en Arch/RedHat, resolviendo dependencias y compatibilidad.
+- 🐧 **Administración de sistemas** — manejo entornos Arch y RedHat, resolviendo dependencias y compatibilidad. Actualmente preparándome para la certificación **RHCSA (Red Hat Certified System Administrator)**.
+- ⚙️ **Automatización** — scripts en Bash para configurar y mantener entornos de desarrollo reproducibles.
+- 🐳 **Contenedores & CI/CD** — aplicaciones en Docker con pipelines en GitHub Actions. Aprendiendo **Kubernetes** desde la base para orquestación a escala.
 
 ### 🎯 Hacia dónde voy
 
-Certificación en la nube y, a futuro, desarrollo de IA para mis propios productos.
+Mi meta es dedicarme a la **investigación y desarrollo de inteligencia artificial**, encargándome del proceso de inicio a fin: desde el modelado matemático hasta el producto final.
 
----
+El camino que estoy construyendo:
 
-📫 **¿Trabajamos juntos?** Encuéntrame en [LinkedIn](https://www.linkedin.com/in/eddie-andrés-ríos-elgueta-447580167/)
+- 📜 Certificaciones de infraestructura sólida — **RHCSA → RHCE (Red Hat Certified Engineer)** y orquestación con **Kubernetes**.
+- ☁️ Administración de sistemas a gran escala y especialización en **Machine Learning (AWS / Azure)**.
+- 🔬 Proyectos propios de Machine Learning, con foco en el modelado matemático y la escritura de papers.
 
-
+El objetivo de fondo: aportar a equipos de investigación en IA de primer nivel.
 
 
 
