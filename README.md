@@ -2,7 +2,7 @@
 
 # Stenon
 
-**`Estudiante de Ingeniería · Infraestructura & MLOps en formación`**
+**`Estudiante de Ingeniería · ML Engineer / MLOps en formación`**
 
 Vengo del mundo de la **infraestructura y la automatización**, y estoy construyendo desde ahí hacia el **Machine Learning**. Esa base poco común —saber cómo se sostiene un sistema por dentro— es justo lo que quiero aprovechar para llevar modelos del paper a producción real.
 
