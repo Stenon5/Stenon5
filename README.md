@@ -2,7 +2,8 @@
 
 **`Digital Craftsman · ML Engineer / MLOps en formación`**
 
-Hola! Actualmente curso la carrera de Ingeniería Civil Biomédica y en paralelo fabrico mis propios proyectos y portafolio, el mismo que verán adelante [casi nunca actualizo esto jeje].
+Hola! Actualmente curso la carrera de Ingeniería Civil Biomédica y en paralelo fabrico mis propios proyectos y portafolio, el mismo que verán adelante 
+<Actualmente los proyectos están en privado para evaluar su viabilidad comerical>
 
 
 ---
