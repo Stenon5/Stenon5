@@ -5,7 +5,7 @@
 Hola! Actualmente curso la carrera de Ingeniería Civil Biomédica y en paralelo fabrico mis propios proyectos y portafolio, el mismo que verán adelante.
 
 
-< hoy en día trabajo en proyectos públicos y privados >
+< Hoy en día trabajo en proyectos públicos y privados >
 
 
 
