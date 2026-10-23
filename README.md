@@ -1,6 +1,6 @@
 # Stenon
 
-**`Digital Craftsman · ML Engineer / MLOps en formación`**
+**`Digital Craftsman `**
 
 Hola! Actualmente curso la carrera de Ingeniería Civil Biomédica y en paralelo fabrico mis propios proyectos y portafolio, el mismo que verán adelante.
 
