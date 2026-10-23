@@ -5,7 +5,9 @@
 Hola! Actualmente curso la carrera de Ingeniería Civil Biomédica y en paralelo fabrico mis propios proyectos y portafolio, el mismo que verán adelante.
 
 
-<Actualmente los proyectos están en privado para evaluar su viabilidad comerical>
+My research projects are public and non commercial: [oncolytic-virus-harmonization](https://github.com/Stenon5/oncolytic-virus-harmonization) and [glucose-delay-simulation](https://github.com/Stenon5/glucose-delay-simulation). Other personal projects stay private.
+
+Mis proyectos de investigación son públicos y no comerciales: [oncolytic-virus-harmonization](https://github.com/Stenon5/oncolytic-virus-harmonization) y [glucose-delay-simulation](https://github.com/Stenon5/glucose-delay-simulation). Otros proyectos personales siguen privados.
 
 
 ---
