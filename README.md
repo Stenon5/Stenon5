@@ -7,23 +7,6 @@ Hola! Actualmente curso la carrera de Ingeniería Civil Biomédica y en paralelo
 
 < Hoy en día trabajo en proyectos públicos y privados >
 
----
-
-### 🔬 Proyectos que buscan aportar valor
-
-Mis proyectos de investigación son públicos y no comerciales: [armonizacion-virus-oncoliticos](https://github.com/Stenon5/armonizacion-virus-oncoliticos) y [simulacion-retraso-glucosa](https://github.com/Stenon5/simulacion-retraso-glucosa). Otros proyectos personales siguen privados.
-
-| Proyecto | Qué es | Estado |
-|---|---|---|
-| [simulacion-retraso-glucosa](https://github.com/Stenon5/simulacion-retraso-glucosa) | Evaluación de viabilidad en simulación para estimar el retraso entre la glucosa en sangre y en tejido desde dos profundidades. No es un dispositivo médico. | Primera replicación con resultados |
-| [armonizacion-virus-oncoliticos](https://github.com/Stenon5/armonizacion-virus-oncoliticos) | Esquema y protocolo para armonizar resultados publicados de tamizaje de virus oncolíticos. | Andamiaje, todavía sin datos |
-
-Además trabajo en seis proyectos privados que aún no están listos para mostrar.
-
-### 📚 Ensayos para aprender
-
-Ejercicios y prácticas de mi formación, sin pretensión de producto: [curso-github](https://github.com/Stenon5/curso-github) (fork de un curso de Platzi) y [mysql-workbench](https://github.com/Stenon5/mysql-workbench) (práctica de MySQL).
-
 
 
 ---
